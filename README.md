@@ -47,8 +47,10 @@ I don’t limit myself to one role or technology. I learn fast, adapt quickly, a
 
 ### Cloud & DevOps
 - Terraform
+- Docker
 - AWS
 - Cloud infrastructure and automation
+- Kubernetes (k8n) (learning)
 
 ### Strengths
 - Learn new technologies quickly
