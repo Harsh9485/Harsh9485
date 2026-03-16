@@ -45,8 +45,10 @@
 
 ### クラウド・DevOps
 - Terraform
+- Docker
 - AWS
 - インフラ設計・自動化
+- Kubernetes (k8n)（学習中）
 
 ### 強み
 - 新しい技術を素早く学習可能
